@@ -1,0 +1,13 @@
+{
+	"wave 1" : {
+		"class" : "battleDroid",
+		"pause" : 20,
+		"units": 3
+	},
+
+	"wave 2" : {
+		"class" : "tortureDroid",
+		"pause" : 5,
+		"units": 20
+	}
+}
